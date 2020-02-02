@@ -8,5 +8,5 @@ Features:
  - Based on Qt
  - Contains a simple Mersenne Twister based number generator
  - Parses command line arguments
- - sends somes signals 
- - turns off application in case wrong params are passed
+ - Sends some signals 
+ - Turns off application in case wrong params are passed
